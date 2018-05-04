@@ -1,0 +1,94 @@
+{
+    "plugins": {
+        "SerpentSuperHexagonGamePlugin": {
+            "name": "SerpentSuperHexagonGamePlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_SuperHexagon_game.py",
+                    "pluggable": "Game"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "fps": 2
+            }
+        },
+        "SerpentSuperHexagonGameAgentPlugin": {
+            "name": "SerpentSuperHexagonGameAgentPlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_SuperHexagon_game_agent.py",
+                    "pluggable": "GameAgent"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "frame_handler": "PLAY"
+            }
+        },
+        "SerpentSuperMeatBoyGamePlugin": {
+            "name": "SerpentSuperMeatBoyGamePlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_SuperMeatBoy_game.py",
+                    "pluggable": "Game"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "fps": 2
+            }
+        },
+        "SerpentSuperMeatBoyGameAgentPlugin": {
+            "name": "SerpentSuperMeatBoyGameAgentPlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_SuperMeatBoy_game_agent.py",
+                    "pluggable": "GameAgent"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "frame_handler": "PLAY"
+            }
+        },
+        "SerpentCanabaltGamePlugin": {
+            "name": "SerpentCanabaltGamePlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_Canabalt_game.py",
+                    "pluggable": "Game"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "fps": 2
+            }
+        },
+        "SerpentCanabaltGameAgentPlugin": {
+            "name": "SerpentCanabaltGameAgentPlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_Canabalt_game_agent.py",
+                    "pluggable": "GameAgent"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "frame_handler": "PLAY"
+            }
+        }
+    }
+}

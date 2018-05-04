@@ -1,0 +1,12 @@
+SerpentCanabaltGameAgentPlugin:
+  frame_handler: PLAY
+SerpentCanabaltGamePlugin:
+  fps: 2
+SerpentSuperHexagonGameAgentPlugin:
+  frame_handler: PLAY
+SerpentSuperHexagonGamePlugin:
+  fps: 2
+SerpentSuperMeatBoyGameAgentPlugin:
+  frame_handler: PLAY
+SerpentSuperMeatBoyGamePlugin:
+  fps: 2
